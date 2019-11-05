@@ -1,0 +1,8 @@
+*.o
+*.wav
+*.8svx
+*.lha
+*.bak
+MT_ADPCM
+ADPCM_Crunch
+ADPCM_Decrunch
